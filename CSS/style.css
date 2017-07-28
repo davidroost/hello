@@ -61,7 +61,8 @@ img {
   stroke-opacity: 1;
   stroke-dasharray: 870;
   stroke-dashoffset: 870;
-  animation: draw 15s infinite linear;
+  animation: draw 13s infinite linear;
+  -webkit-animation-delay: 1s;
   }
 
 @keyframes draw {
